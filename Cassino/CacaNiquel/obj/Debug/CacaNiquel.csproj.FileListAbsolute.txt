@@ -1,0 +1,11 @@
+C:\Users\ra2457048\source\repos\Gelifero\Cassino\CacaNiquel\bin\Debug\CacaNiquel.exe.config
+C:\Users\ra2457048\source\repos\Gelifero\Cassino\CacaNiquel\bin\Debug\CacaNiquel.exe
+C:\Users\ra2457048\source\repos\Gelifero\Cassino\CacaNiquel\bin\Debug\CacaNiquel.pdb
+C:\Users\ra2457048\source\repos\Gelifero\Cassino\CacaNiquel\obj\Debug\CacaNiquel.csproj.AssemblyReference.cache
+C:\Users\ra2457048\source\repos\Gelifero\Cassino\CacaNiquel\obj\Debug\CacaNiquel.FrmCacaNiquel.resources
+C:\Users\ra2457048\source\repos\Gelifero\Cassino\CacaNiquel\obj\Debug\CacaNiquel.Properties.Resources.resources
+C:\Users\ra2457048\source\repos\Gelifero\Cassino\CacaNiquel\obj\Debug\CacaNiquel.csproj.GenerateResource.cache
+C:\Users\ra2457048\source\repos\Gelifero\Cassino\CacaNiquel\obj\Debug\CacaNiquel.csproj.CoreCompileInputs.cache
+C:\Users\ra2457048\source\repos\Gelifero\Cassino\CacaNiquel\obj\Debug\CacaNiquel.exe
+C:\Users\ra2457048\source\repos\Gelifero\Cassino\CacaNiquel\obj\Debug\CacaNiquel.pdb
+C:\Users\ra2457048\source\repos\Gelifero\Cassino\CacaNiquel\obj\Debug\CacaNiquel.Form1.resources
